@@ -12,7 +12,7 @@ This project involves the creation of an interactive Power BI dashboard to analy
 ### Trends: Includes a line chart of total profit and orders by month, revealing seasonal patterns.
 ### RFM Analysis: Features frequency, monetary, and recency scores by customer, with averages of 2.49 (quantity) and 195 (frequency).
 
-##SKILLS DEMONSTRATED
+## SKILLS DEMONSTRATED
 
 DATA VISUALIZATION
 POWER BI DEVELOPMENT

@@ -11,3 +11,8 @@ This project involves the creation of an interactive Power BI dashboard to analy
 ### Operational Efficiency: Tracks order fulfillment rate by supervisors and COGS (₹76M).
 ### Trends: Includes a line chart of total profit and orders by month, revealing seasonal patterns.
 ### RFM Analysis: Features frequency, monetary, and recency scores by customer, with averages of 2.49 (quantity) and 195 (frequency).
+
+##SKILLS DEMONSTRATED
+
+DATA VISUALIZATION
+POWER BI DEVELOPMENT
